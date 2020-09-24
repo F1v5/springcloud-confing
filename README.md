@@ -1,0 +1,2 @@
+# springcloud-confing
+Configuration center
